@@ -1,0 +1,24 @@
+body {
+	font-family: "微软雅黑", "黑体", Arial, Helvetica, sans-serif;
+	color: #4c4c4c;
+	margin: 0;
+}
+
+h1,h2,a {
+	color: #ffa800; 
+}
+
+a {
+	color: #4c4c4c;
+	font-weight: bold;
+	font-size: 130%;	
+}
+
+img {
+	max-width: 100%;
+}
+
+.notice_content {
+	width: 98%;
+	margin: auto;
+}
